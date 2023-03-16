@@ -4,7 +4,7 @@
 I am software developer who enjoys puzzles and builds applications. All my projects are build from the ground up from planning and designing all the way to solving real life problems with code. I learned my skills from Moringa school and my personal studies.
 
 
-### langauges andd tools
+### langauges and tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
