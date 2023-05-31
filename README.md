@@ -1,7 +1,7 @@
 # Hi 👋,Michael Gichuhi
 
 **full-stack developer**
-I am software developer who enjoys puzzles and builds applications. All my projects are build from the ground up from planning and designing all the way to solving real life problems with code. I learned my skills from Moringa school and my personal studies.
+I am a front-end developer who enjoys building projects and learning new technologies. I enjoy working with others and working in teams. My languages and framework of choice are react, angular, javascript, typescript and more are to come. let us talk more and build products together.
 
 
 ### langauges and tools
