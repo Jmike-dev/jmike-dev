@@ -15,13 +15,12 @@ I am front-end developer with a great passion for UI and UX design. I hope to wo
 <img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+
+
 <br/>
 
-
-
-
-<img width='50%' align='left' src='https://github-readme-stats.vercel.app/api?username=jmike-dev&show_icons=true&theme=algolia'>
-<img width='50%' align='left' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=jmike-dev&layout=compact'>
+<img width='47%' align='left' src='https://github-readme-stats.vercel.app/api?username=jmike-dev&show_icons=true&theme=algolia'>
+<img width='47%' align='left' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=jmike-dev&layout=compact'>
 
 
 
