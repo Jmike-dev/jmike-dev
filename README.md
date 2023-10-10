@@ -1,7 +1,7 @@
 # Hi there 👋,I'm Mike a front-end developer
 
 
-I am front-end developer with a great passion for UI and UX design. I hope to work with you soon an build your products the right technology for the job.
+I am passionate in building great UI and UX design as well as writing maintainable code. I hope to work with you soon an build your products the right technology for the job.
 
 
 ### langauges and framework
