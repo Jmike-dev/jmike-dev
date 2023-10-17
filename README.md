@@ -4,7 +4,7 @@
 I am passionate in building great UI and UX design as well as writing maintainable code. I hope to work with you soon an build your products the right technology for the job.
 
 
-### langauges and framework
+# langauges and framework
 <img align="left" alt="TypeScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
