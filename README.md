@@ -19,6 +19,7 @@ I am passionate in building great UI and UX design as well as writing maintainab
 
 <br/>
 
+# My Stats
 <img width='47%' align='left' src='https://github-readme-stats.vercel.app/api?username=jmike-dev&show_icons=true&theme=algolia'>
 <img width='47%' align='left' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=jmike-dev&layout=compact'>
 
