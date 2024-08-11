@@ -1,8 +1,5 @@
-# Hi there 👋,I'm Mike a front-end developer
-
-
-I am passionate in building great UI and UX design as well as writing maintainable code. I hope to work with you soon an build your products the right technology for the job.
-
+## 🚀 About Me
+Hey there! Am Michael, a front-end software developer. I'm passionate about creating elegant and efficient solutions to complex problems. Teamwork and colaboration are important when it comes to building software solutions and I exel on both. I hope to work with you soon
 
 # langauges and framework
 <img align="left" alt="TypeScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
