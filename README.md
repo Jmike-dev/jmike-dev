@@ -16,9 +16,7 @@ Hey there! Am Michael, a software engineer. I'm passionate about creating elegan
 
 <br/>
 
-# My Stats
-<img width='47%' align='left' src='https://github-readme-stats.vercel.app/api?username=jmike-dev&show_icons=true&theme=algolia'>
-<img width='47%' align='left' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=jmike-dev&layout=compact'>
+
 
 
 
